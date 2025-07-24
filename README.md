@@ -77,4 +77,4 @@ The website effectively showcases their services and brand identity in a sleek, 
 The website can be deployed easily using **cent OS** on **Red Hat** based Server,
 
 ---
-💻 **Developed by:** [**SUMIT**]
+💻 **Developed by:** [**MAYANK**]
